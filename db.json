@@ -1,0 +1,61 @@
+{"__default__": {
+  "id1": {
+    "guard": "cb5d0f2ba6e44a21aa8f0ec1dd7be6c1",
+    "value": {
+      "imie": "Patryk",
+      "nazwisko": "Blizniewski",
+      "login": "Patrol",
+      "_id": "da141721074c45b1bea8242273ae30dc"
+    }
+  },
+  "id1.Lek1": {
+    "guard": "65a5c6d66a77436e9bffcbd665abcad6",
+    "value": [
+      {
+        "file": "Zajecia1.xlsx",
+        "path": "D:\\Studia 5 semestr\\Metody numeryczne\\Cwiczenia\\1 Zajecia\\Zajecia1.xlsx",
+        "_id": "2bd46585d0d74e609923d66a43d1994d"
+      }
+    ]
+  },
+  "id1.Lek2": {
+    "guard": "59b2fb8c8edd43d2b3b62365a7c2cf76",
+    "value": [
+      {
+        "file": "2 Zajecia.xlsx",
+        "path": "D:\\Studia 5 semestr\\Metody numeryczne\\Cwiczenia\\2 Zajecia.xlsx",
+        "_id": "2f7e55348f9340eeaf04345ddf050f6b"
+      }
+    ]
+  },
+  "id1.Lek6": {
+    "guard": "1d2f04fe628b4a10a37fb032a37ce8b0",
+    "value": [
+      {
+        "file": "6 Zajecia.xlsx",
+        "path": "D:\\Studia 5 semestr\\Metody numeryczne\\Cwiczenia\\6 Zajecia.xlsx",
+        "_id": "826ceffb8e6d4440ab25d6b5bef471be"
+      }
+    ]
+  },
+  "id1.Mn": {
+    "guard": "463d975f4cb24e319ef072e36f8bac24",
+    "value": [
+      {
+        "file": "Zajecia1.xlsx",
+        "path": "D:\\Studia 5 semestr\\Metody numeryczne\\Cwiczenia\\1 Zajecia\\Zajecia1.xlsx",
+        "_id": "2bd46585d0d74e609923d66a43d1994d"
+      },
+      {
+        "file": "2 Zajecia.xlsx",
+        "path": "D:\\Studia 5 semestr\\Metody numeryczne\\Cwiczenia\\2 Zajecia.xlsx",
+        "_id": "2f7e55348f9340eeaf04345ddf050f6b"
+      },
+      {
+        "file": "6 Zajecia.xlsx",
+        "path": "D:\\Studia 5 semestr\\Metody numeryczne\\Cwiczenia\\6 Zajecia.xlsx",
+        "_id": "826ceffb8e6d4440ab25d6b5bef471be"
+      }
+    ]
+  }
+}}
